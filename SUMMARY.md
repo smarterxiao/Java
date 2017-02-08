@@ -1,5 +1,8 @@
 # Summary
 
 * [简介](README.md)
-* [First Chapter](chapter1.md)
+* [第1章 Java程序设计概述](chapter1.md)
+* [第2章 Java程序设计环境](second-chapter.md)
+* [第3章 Java的基本程序设计结构](third-chapter.md)
+* [第4章 对象与类](forth-chapter.md)
 
