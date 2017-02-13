@@ -6,4 +6,5 @@
 * [第3章 Java的基本程序设计结构](third-chapter.md)
 * [第4章 对象与类](forth-chapter.md)
 * [第5章 继承](5.md)
+* [第6章 接口与内部类](6.md)
 
